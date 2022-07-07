@@ -1,0 +1,199 @@
+body {
+    margin: auto;
+    margin-top: 0%;
+    font-family: "Open Sans", sans-serif;
+  }
+  section {
+    padding-bottom: 100px;
+  }
+  .top_section {
+    background-image: url(images/donation13.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 625px;
+    background-position: center top;
+    margin-top: -20px;
+    background-size: cover;
+    color: white;
+  }
+  
+  .top_section_text {
+    padding-top: 200px;
+  }
+  .top_section_text h1 {
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: -50px;
+  }
+  .top_section_parra {
+    margin-top: 60px;
+    line-height: 15px;
+  }
+  .top_section_anchor {
+    margin-top: 30px;
+  }
+  .Anchor_button {
+    text-decoration: none;
+    background: tomato;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+  }
+  
+  /*SECTION TWO*/
+  
+  .section_two {
+    padding-top: 100px;
+    text-align: center;
+  }
+  .section_two h1 {
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .section_two p {
+    line-height: 15px;
+  }
+  .section_two_taka {
+    display: flex;
+    color: gray;
+    text-align: center;
+    padding-left: 500px;
+    padding-top: 30px;
+  }
+  .tk_design {
+    box-sizing: border-box;
+    border-style: hidden;
+    background-color: papayawhip;
+    margin: 5px;
+    height: 70px;
+    width: 80px;
+  }
+  .tk_design p {
+    font-weight: bolder;
+    margin-top: 25px;
+  }
+  
+  .Other_amount {
+    padding-top: 25px;
+  }
+  
+  /*SECTION THREE*/
+  
+  .section_three {
+    text-align: center;
+  }
+  .section_three h1 {
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .section_three_parts {
+    display: flex;
+    border-style: hidden;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 185px;
+  }
+  .section_three_contents {
+    padding: 40px;
+  }
+  
+  /*SECTION FOUR*/
+  
+  .section_four_contents {
+    display: flex;
+  }
+  
+  .section_four_I {
+    width: 50%;
+    float: left;
+    padding-left: 12%;
+  }
+  .sect_four_parra {
+    background-color: rgb(237, 193, 228);
+    height: 250px;
+    width: 400px;
+    padding: 20px;
+    line-height: 25px;
+    text-align: center;
+    border: 1px dotted blue;
+    border-radius: 5px;
+  }
+  .know_more {
+    text-decoration: none;
+    background: tomato;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+  }
+  .section_four_II img {
+    width: 600px;
+    height: 290px;
+  }
+  
+  .section_four_II img {
+    float: right;
+    padding-right: 30%;
+  }
+  
+  /*SECTION FIVE*/
+  .section_five {
+    text-align: center;
+  }
+  .section_five_bg {
+    margin: auto;
+    background-color: antiquewhite;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    width: 600px;
+    border-radius: 5px;
+  }
+  .section_five_parra {
+    padding-bottom: 20px;
+  }
+  .email {
+    padding-top: 15px;
+  }
+  .email input {
+    border: hidden;
+    width: 200px;
+    height: 25px;
+    color: gray;
+    font-size: 10;
+    background-color: lightgray;
+    padding: 5px;
+    border-top-left-radius: 10px;
+  }
+  button {
+    width: 100px;
+    height: 35px;
+    text-decoration: none;
+    background: tomato;
+    border-bottom-right-radius: 10px;
+    color: white;
+    border-style: hidden;
+    margin-left: -5px;
+    font-style: bold;
+  }
+  
+  /*LAST SECTION*/
+  .last_section {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 60px;
+  }
+  .last_section_content {
+    padding-top: 20px;
+  }
+  .last_section_content h2 {
+    font-family: "Rubik Moonrocks", cursive;
+    color: rgb(160, 239, 226);
+  }
+  .last_section_content p {
+    font-style: italic;
+    color: rgb(158, 224, 243);
+  }
+  
